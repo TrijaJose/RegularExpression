@@ -22,6 +22,7 @@ public class RegexEmail {
 					for (String emailMatcher : emailMatcherCollection) {
 						System.out.println(emailMatcher);
 						fileWriter(emailMatcher);
+						System.out.println("git requirements");
 
 					}
 				}
